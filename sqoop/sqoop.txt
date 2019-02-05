@@ -1,0 +1,8 @@
+Sqoop is used to ingest and export data between RDBMS and HDFS systems.
+Here I tried to implement various sqoop functionalities between HDFS and MySQL.
+
+I am working with cloudera 5.13 virtualbox installed with 1.4.6-cdh5.13.0 sqoop version
+Cloudera 5.13 comes with hadoop 2.6.0 ecosystem.
+The sqoop documentation can be found at https://sqoop.apache.org/docs/1.4.6/SqoopUserGuide.html
+
+help can found at sqoop --help command on terminal.
